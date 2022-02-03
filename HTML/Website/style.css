@@ -1,0 +1,23 @@
+li{
+    list-style: none;
+}
+.navbar>nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+ul{
+    display: flex;
+}
+.welcomeimg>p{
+    height:800px;
+    width:1000px;
+}
+.footer{
+    height:80px;
+     background-color: black;
+     color: white;
+}
+.footer>p{
+    font-size:25px;
+}
